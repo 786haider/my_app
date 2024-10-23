@@ -20,8 +20,8 @@ export default function Navbar() {
         <Image 
         src={logo} 
         alt="logo"
-         width={100}
-         style={{ marginLeft: `0` }} />
+         width={120}
+         />
         <h1 className="text-blue-500 text-3xl">
           <b>
             <i>
